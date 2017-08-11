@@ -1,5 +1,5 @@
 ---
 layout: default
-title: template
+title: writing
 ---
 {% include tag.html %}
