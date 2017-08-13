@@ -1,0 +1,13 @@
+---
+layout: post
+date:	2006-02-14 21:12:00
+title:  With and without parents...
+tags: [archived-posts]
+categories: archives
+permalink: /:categories/:year/:month/:day/:title/
+---
+Felt very happy to meet <LJ user="varshax">...and the very next morning, I had another, similar visit... I find that some people are happy to be individual friends as well as part of the family friendships; but some people are different by themselves, from when they are with their parents. The parents are also people who  are good friends , but I realize that my friendships with different generations are sometimes better compartmentalized....
+
+Anyway, waiting to see <LJ user="zweilinkfusse"> again..who hasn't been blogging at all lately...
+
+I rewrote parts of this post after I realized that it was confusing for <LJ user="varshax"> who thought the reference was to their visit....

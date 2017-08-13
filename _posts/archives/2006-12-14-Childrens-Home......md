@@ -1,0 +1,11 @@
+---
+layout: post
+date:	2006-12-14 01:09:00
+title:  Childrens Home.....
+tags: [archived-posts]
+categories: archives
+permalink: /:categories/:year/:month/:day/:title/
+---
+No, that is not a subject title about some place which takes in children...this is about the home that my daughter and son in law have. I do love the place. The house itself is just the right size, light and airy (though of course, not right now, central heating is on!)...and the layout is SO convenient. The open kitchen/ dining/ drawing area means that, as I write, veggies are simmering on the hob, I am typing away, and KM is (that couch potato) watching some TV....the home is SO very organized, and unnecessary junk seems to be cleared ruthlessly, and regularly, unlike in my own home. The kitchen is also organized exactly the way I would have it (figures, doesn't it? it's my child after all!!) with a huge refrigerator and some luxuries such as instant hot water all the time and a "kitchen sink shower" (I don't know what its name is, we don't have it in India and I wish we could. One can basically take the shower out on a long tube and rinse vessels when one is not stocking the dishwasher.) All their stuff is stylish and tasteful (I myself am hopelessly in love with all my old furniture and might never ever change it..) The three rooms upstairs are two bedrooms, with enough space around the furniture and one room done up as an office; the basement houses a kind of BUnny Palace (really, its HUGE and the bunnies hop around happily all over!) and has plenty of storage. The garage has space for 2 cars, DS's "hobby" Saab and daughter's Mazda...and the new DS Saab being parked outside in the driveway..it's a real home, and it's SUCH a pleasure being in it. The only thing I would carp about is that the backyard is completely disconnected from the house, so that one has to go out of the house and  around the driveway to reach it, so it tends not to be used at all.
+
+If I ever figure out how to download from the Canon on to this Linux-configured laptop, you people will get pictures...until then, IMAGINE us in our Children's Home and share our happiness! Our children earn well ANd are financically responsible...such a blessing!

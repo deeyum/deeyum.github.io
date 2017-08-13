@@ -1,0 +1,26 @@
+---
+layout: default 
+title: Posts from my old livejournal blog
+description: Posts from my livejournal
+---
+<h1>Archives from my old livejournal </h1>
+<article class="post">
+I blogged from 2015 to 2017, on livejournal, as user deponti. I moved to deeyum.github.io/deponti.in in August of 2017. These are my posts, migrated from lj.
+<br><br>
+
+  {% for post in site.posts %}
+  {% assign found = 0 %}
+	{% for category in post.categories %}
+  	{% if category == 'archives' %}
+		{% assign found = 1 %}
+	{% endif %}
+	{% endfor %}
+	{% if found == 1 %}
+    <article class="post">
+
+      {{post.date | date: "%B %e %Y"}}: <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+    </article>
+	{% endif %}
+  {% endfor %}
+
+</article>

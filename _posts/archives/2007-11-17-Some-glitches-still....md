@@ -1,0 +1,13 @@
+---
+layout: post
+date:	2007-11-17 17:26:00
+title:  Some glitches still...
+tags: [archived-posts]
+categories: archives
+permalink: /:categories/:year/:month/:day/:title/
+---
+The new comp still has a few glitches, not ironed out yet...I can't post to Metroblogs (have done so from my ancient dino!)...can't play a few Yahoo games, esp bookworm which is one of my favourites...
+
+Getting a new laptop to work takes a LOT of effort...! Also, the "skin" that I got to prevent that super-white keyboard from rapidly becoming a grey keyboard is useful, but makes it necessary to use much more pressure on the keys....
+
+What's the big deal with this white fascination, in computers as well as human skins in India? The dust and dirt of the Indian climate makes it such a difficult option...

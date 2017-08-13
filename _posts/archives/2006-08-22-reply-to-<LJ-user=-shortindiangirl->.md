@@ -1,0 +1,17 @@
+---
+layout: post
+date:	2006-08-22 00:08:00
+title:  reply to <LJ user=shortindiangirl>
+categories: archives
+permalink: /:categories/:year/:month/:day/:title/
+---
+<P><lj user="shortindiangirl"> wrote about my posts on LJ:
+
+"mostly dormant within blogs, time-pass articles or in conversations with smaller reach."</P><P>I do disagree with this point of view, which seems to me, to be somewhat patronising and condescending of smaller articles. Why look down on blogs,
+"middles" or conversations with a .."smaller reach"? </P><P>I am like a short-story writer or a miniature painter. The thought that forms the embryo of my post, or the descriptions that form my write up, translate well, I think, to these small dimensions; how they would do if extrapolated into longer pieces, I am not sure. How often have I read a book where, I think, the original idea is a small (though interesting) one, which has been "puffed up" into a monograph or even a book, and felt somehow cheated!</P><P>And I actually think that developing sureness of touch in these small vignettes is as much, if not more, of a challenge than a larger piece of writing. </P><P>I am happy writing my "small stuff" and don't think of it as such, though I am sorry you do. LJ is such a great way of also sharing my thoughts with a limited readership. Perhaps I can "do better"...but let&nbsp;a larger scope in my writing&nbsp;come, if it does, in its own time...I am not, and probably have never been, interested in "great" or "influential" writing..there are soooooo many others who do that much better than I do. Remember that for some years I could not write at all and am now regularly writing. </P><P>I love humour and find nothing wrong in being "inconsistent" about a stance&nbsp;&nbsp; in a lighter vein. It is a fact that I am apolitical and do not like to comment on the bigger picture. I don't think &nbsp;my writing&nbsp; can be &nbsp;regarded as "lesser" because of that. I do not have the drive and ambition that others, like the &nbsp;JS&nbsp;you mention, &nbsp;possess. I am truly a person of small happinesses, and --deadly word--am content with those! 
+
+(In fact, I would like to make an example of the essays in Time magazine that I love to read. To me, the ability to condense thoughts and ideas on one page or one short entry , and yet make an impact on the reader's mind, is commendable. The Aug 14th issue of Time has such a great piece by William Dalrymple, of the "White Mughals" fame, on an idea that was new to me...that the economic order between East and West is shifting back &nbsp;to the equation that prevailed during the time of Marco Polo and the Silk Route, with the West being a consumer of goods and services provided by the East. It was pithily yet well expressed. )
+
+To use another example, I just started giving music classes recently....&nbsp;and have been told that I should "take it forward"...the three occasions that I have had to wind up my music classes is not something I have forgotten, and the frustration I felt when I had to do so each time. As of now, I am content with these ...er..."limited" endeavours, because they each leave me space for the others....wildlife, the first attempts towards photography, music, going to the theatre, music, writing...I may take up some art, too....I &nbsp;want all these AND I want leisure, space, and time too...I don't want to be "busy"!
+
+I basically don't agree with the concept of "do more" all the time, I think.....</P>

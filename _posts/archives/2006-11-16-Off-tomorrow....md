@@ -1,0 +1,13 @@
+---
+layout: post
+date:	2006-11-16 15:42:00
+title:  Off tomorrow...
+tags: [archived-posts]
+categories: archives
+permalink: /:categories/:year/:month/:day/:title/
+---
+...
+
+From tomorrow, I have a series of trips...first, to BR Hills or K Gudi as the resort is called, for a bird survey; as soon as I return, I am going to Hubli/Dharwad with a side-sneak for a day to JLR Dandeli; then off to Mumbai for a wedding, and there is a mailing-list meeting in the middle of it all...In the middle of this, I want VERY much to meet <lj user="thaths">, <lj user="tariquesani"> and <lj user="swatisani"> and Aasim, too... I think I am going to get all confused and shout, "friends of K Gudi" or " lesser Aasim Nagpurvasii" or "Malabar Pied Casey O'Donnell" or "Foss. in Vaibhogame".....
+
+Will be off the net for a while, during which time, no doubt all of you will produce your most scintiallating posts....

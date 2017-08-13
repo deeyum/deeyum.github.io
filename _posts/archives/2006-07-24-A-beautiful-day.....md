@@ -1,0 +1,22 @@
+---
+layout: post
+date:	2006-07-24 00:06:00
+title:  A beautiful day....
+tags: [archived-posts]
+categories: archives
+permalink: /:categories/:year/:month/:day/:title/
+---
+...
+
+
+Our friends, at their farmhouse beyond Sarjapura, asked us to come over again today...and help them with birdwatching and the husband wanted to make a start with learning music. So Mohan dropped me off at the farmhouse on the way to his work at Hosur. Beyond their property is a small lake, where I have seen many birds, and I was fortunate to spot, almost immediately, a PIED WAGTAIL and a WHITE COLLARED KINGFISHER, but after that, there were only the egrets and the feral ducks around. The peace of the farmhouse is wonderful, and it was lovely to watch their field being ploughed by a farmer with two bullocks, with a ploughshare. Some HOUSE CROWS&nbsp; and RAVENS followed the ploughshare devotedly, feasting on the insects thrown up by the turned earth. 
+
+We had a long debate on how the value systems were changing amongst youth of today ( I personally feel elders throughout the centuries have always felt this....I remember a quote from Plato to the effect that "our children have different values and don't listen to us"!) I like that my friends don't discuss other people and we discuss ideas and abstractions instead. Bina is the driving force behind the farm and has put in so much effort, right from acquiring the land to the beds of petunias, all with a vision in her mind of what it is going to look like when finished. Amazing woman, amazing energy...at the same time she is supervising the construction of another home in a gated community closer to the flat where they live. She has put in a small swimming pool in front of the farmhouse, and was talking about filtration systems and dry chlorine and so on...I was most impressed! My only issue with her is the cutting of those trees...but then, she has planted a lot of mango and chiku saplings now...and the two of them are so restful to be around!
+
+I rehearsed the entire concert that I am to give tomorrow, and timed myself at 1 hr. 6 mns, which is pretty good. I then assessed my friend, and found he had an excellent voice and a good ear for music, so I think things will move pretty quickly on the learning front. Took him through some voice-range exercises and started off the first line of a small song. Then I lay restfully on the terrace, in the flowing cool breeze, while the couple went about their work downstairs. I had an amazing sighting,&nbsp;a little while after sitting up, of two BLACK KITES swooping on the fields adjacent to my friends' land and one picked up a snake ( I think it was a grass snake but I couldn't make out) and the second one flew off behind the first. 
+
+Mohan came back in the evening, and we went off to walk near the lake and sighted three PIED KINGFISHERS, sitting on the wires, and hovering over the water as they suddenly zoomed in on the fish. There were a few sunbirds, too, and the ROSE RINGED PARAKEETS started flying in formation as they returned to their perches in a stand of Eucalyptus trees. But the amazing sighting was of a RED-WATTLED LAPWING pair as they flew over an outcrop of rocks, giving alarm calls and being mobbed by the parakeets for some reason. They kept landing on the outcrop and I suspect that they have their nest somewhere...I didn't want to get too close though; I didn't make a very determined effort to find it. The view of the lake and the trees and the undulating hillocks was so beautiful...with the twittering call of the lapwings echoing around. We also saw a SHIKRA, and several SWIFTS hawking in the air. 
+
+Our friends provided such relaxed hospitality, and joined us in our birding with such enthusiasm, that we felt we had found a perfect place for the day! We bade them goodbye and rode back home....I will post Mohan's photos as soon as I can get my hands on his CF card! He had taken his camera for some industrial photography and quickly unpacked all his gear as soon as he saw the pied kingfishers, a first for him!
+
+We came home and Sanath and Amogh were waiting for us; Sanath showed us his lovely shots of the tiger that he sighted last weekend at B R Hills, and some beautiful mammal/bird shots, including those of a brown fish owl and muntjac. Mohan admired his new Nikon D 70 and they spoke Camerese for a while.....what a wonderful day, friends are the greatest treasure one can have!
