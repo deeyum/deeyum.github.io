@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Atlas Moth"
-date: 2017-08-08
+date: 2017-08-14
 comments: yes
 tags: [insects, nature, bannerghatta, karnataka]
 ---
