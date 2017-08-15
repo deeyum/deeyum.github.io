@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Turahalli-outing-12-08-17
-date: 2017-08-15
+title:  "whatever title you want"
+date:   2017-08-13
 comments: yes
+tags: [nature,bannerghatta,insects, butterflies, flowers,photography, ]
 ---
 As my friend Janhvi was going to do a trek to Turahalli State Forest as part of her Corporate Social Initiative (CSI), a few of us decided to join in.
 
