@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The culture of opacity"
-date:   2017-08-13
+date:   2017-08-16
 comments: yes
 tags: [thoughts, india, ]
 ---
