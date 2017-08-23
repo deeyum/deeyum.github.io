@@ -1,7 +1,7 @@
 ---
 published: true
 title: Wildlife Events in Bangalore
-date: {}
+date: 2017-08-23T00:00:00.000Z
 comments: 'yes'
 tags:
   - wildlife
