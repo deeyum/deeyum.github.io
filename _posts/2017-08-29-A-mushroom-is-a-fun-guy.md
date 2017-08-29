@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: A mushroom is a fun guy
 date: 2017-08-29T00:00:00.000Z
